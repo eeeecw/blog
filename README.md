@@ -37,7 +37,7 @@
 
 * [Vue 进阶系列（一）之响应式原理及实现](https://github.com/yygmind/blog/issues/6)
 
-* [JavaScript常用七种继承方案](https://github.com/yygmind/blog/issues/7)
+* [JavaScript常用八种继承方案](https://github.com/yygmind/blog/issues/7)
 
 * [2018大厂高级前端面试题汇总](https://github.com/yygmind/blog/issues/5)
 
